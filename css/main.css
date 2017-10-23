@@ -1,8 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 Georgia, serif;
-  background-color: #ffe500;
-  color: #fff;
+  color: #000;
 }
 
 *, *::before, *::after {
@@ -17,12 +16,13 @@ body {
 header {
   padding: 0;
   margin: 0;
+  background-color: #ffe500;
 }
 
 h1 {
   text-align: center;
   margin: 0;
-  font-family: "Sigmar One", regular;
+  font-family: "Sigmar One", regualr;
   color: #b20953;
   font-size: 3rem;
 }
@@ -36,7 +36,7 @@ body main {
 }
 
 main h2 {
-  font-family: "Sigmar One", regular;
+  font-family: "Sigmar One", regualr;
   font-size: 1.875rem;
   color: #b20953;
   text-align: left;
@@ -57,6 +57,7 @@ body footer {
   text-align: center;
   display: block;
   padding: .75em;
+  background-color: #ffe500;
 }
 
 .nav {
