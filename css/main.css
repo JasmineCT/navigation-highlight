@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: 100%/1.5 Georgia, serif;
+  font: normal 100%/1.5 Georgia, serif;
   background-color: #ffe500;
   color: #fff;
 }
@@ -27,7 +27,7 @@ h1 {
   font-size: 3rem;
 }
 
-body main{
+body main {
   background-color: #fff;
   margin: 0;
   padding: 0 .75em .3em;
